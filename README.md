@@ -1,7 +1,8 @@
 # st - simple terminal
 
 ## Patches and features
-not yet :(
+[glyph wide support](https://st.suckless.org/patches/glyph_wide_support/)
+[alpha](https://st.suckless.org/patches/alpha/)
 
 ## Installation
 Installed into the `~/.local/bin`
