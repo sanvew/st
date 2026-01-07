@@ -7,6 +7,7 @@
 - [copyurl(multiline)](https://st.suckless.org/patches/copyurl/) - cycle through visible urls and copying to clipboard
 - [open_copied_url](https://st.suckless.org/patches/open_copied_url/) - open clipboard content with `xdg-open`
 - [open selected text](https://st.suckless.org/patches/open_selected_text/) - open selected with `xdg-open`
+- [scrollback(ringbuffer)](https://st.suckless.org/patches/scrollback/) - scrollback
 - TODO [undercurl](https://st.suckless.org/patches/undercurl/) - fancy underline
 
 ## Installation

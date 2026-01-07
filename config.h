@@ -210,7 +210,9 @@ static Shortcut shortcuts[] = {
 	{ MODKEY,               XK_l,           copyurl,        {.i =  0} },
 	{ MODKEY|ShiftMask,     XK_L,           copyurl,        {.i =  1} },
 	{ MODKEY,               XK_o,           opencopied,     {.v =  OPENER} },
-	{ MODKEY,               XK_Return,       selopen,        {.v =  OPENER} },
+	{ MODKEY,               XK_Return,      selopen,        {.v =  OPENER} },
+	{ MODKEY,               XK_Up,          kscrollup,      {.i = -1} },
+	{ MODKEY,               XK_Down,        kscrolldown,    {.i = -1} },
 };
 
 /*
